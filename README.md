@@ -1,4 +1,4 @@
-# ProjectCode© Jigsaw Academy Pvt Ltd
+# ProjectCode
 Final Case Study: ML-AI, Modelling
 Introduction
 In this case study you will help an organization which funds projects submitted by high school teachers across US. The name of the organization is Donor’s Choose. DonorsChoose.org is an online charity that makes it easy to help students in need through school donations. At any time, thousands of teachers in K-12 schools propose projects requesting materials to enhance the education of their students. When a project reaches its funding goal, they ship the materials to the school.
